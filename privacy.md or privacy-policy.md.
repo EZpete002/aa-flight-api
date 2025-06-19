@@ -1,0 +1,11 @@
+# Privacy Policy
+
+This API retrieves flight status information by simulating user interaction with the American Airlines public website.
+
+We do not store, log, or share any personal information provided in API requests, including names or PNRs.
+
+All data is processed in memory and discarded immediately after fulfilling the request.
+
+Contact: [EZpete002]
+
+Last updated: June 2025
